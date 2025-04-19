@@ -63,10 +63,10 @@ Anything creative and challenging
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
   <a href="https://github.com/Abdrahmane-Allouche-20/Weather">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Weather&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
   <a href="https://github.com/Abdrahmane-Allouche-20/CoffeShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=CoffeShop&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
 </div>
 
