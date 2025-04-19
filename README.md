@@ -1,11 +1,9 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
 
 ## My name is Allouche Mohamed Abderrahmane 👨‍💻  
-### Full Stack Web Developer | Code Artist | Batman (shhh 🤫)
+### Full Stack Web Developer 
 
-I’m a Full Stack Developer who does it all—front-end, back-end, APIs, databases, animations—you name it. I craft beautiful user interfaces with **React** and **Tailwind CSS**, and build powerful back-end systems with **Node.js** and **MongoDB**.
-
-I don’t just write code—I solve problems, create experiences, and make the web a better place, one project at a time. I'm not tied to a single stack or tool. I learn fast, adapt even faster, and build with purpose.
+I’m a Full Stack Developer who does it all front-end, back-end, APIs, databases, animations you name it. From crafting beautiful UIs with React and Tailwind to building solid back-end systems with Node.js and MongoDB, I bring ideas to life with clean, efficient, and scalable code. I don’t just code I solve problems, design experiences, and make the web better, one project at a time. I’m not limited to one stack or one tool. I learn fast, adapt quickly, and build with purpose.
 
 ---
 
@@ -24,8 +22,7 @@ Anything creative and challenging
 ### 🌐 Portfolio  
 [portfooliiooo.netlify.app](https://portfooliiooo.netlify.app)
 
-### ⚡ Fun Fact  
-I’m secretly Batman... but that stays between us 🦇
+
 
 ---
 
@@ -61,8 +58,14 @@ I’m secretly Batman... but that stays between us 🦇
 
 ## 📌 Featured Projects
 
-<div align="center">
+<div >
   <a href="https://github.com/Abdrahmane-Allouche-20/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Abdrahmane-Allouche-20/Weather">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Abdrahmane-Allouche-20/CoffeShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
 </div>
