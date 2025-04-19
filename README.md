@@ -62,11 +62,14 @@ Anything creative and challenging
   <a href="https://github.com/Abdrahmane-Allouche-20/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
-  <a href="https://github.com/Abdrahmane-Allouche-20/Weather">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Weather&theme=ayu-mirage&hide_border=true" width="45%" />
+  <a href="https://github.com/Abdrahmane-Allouche-20/foodRecipe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=foodRecipe&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
   <a href="https://github.com/Abdrahmane-Allouche-20/CoffeShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=CoffeShop&theme=ayu-mirage&hide_border=true" width="45%" />
+  </a>
+    <a href="https://github.com/Abdrahmane-Allouche-20/TodolistFullStack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=TodolistFullStack&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
 </div>
 
