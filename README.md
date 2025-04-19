@@ -16,7 +16,7 @@ I’m a Full Stack Developer who does it all front-end, back-end, APIs, database
 ### Skills
 
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -84,6 +84,7 @@ I’m a Full Stack Developer who does it all front-end, back-end, APIs, database
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
 </div>
 
+###
 
 ### Socials
 
@@ -95,7 +96,7 @@ I’m a Full Stack Developer who does it all front-end, back-end, APIs, database
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdrahmane-Allouche-20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Abdrahmane-Allouche-20&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img width="100%" display="block" src="https://streak-stats.demolab.com?user=Abdrahmane-Allouche-20&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5"  height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdrahmane-Allouche-20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
