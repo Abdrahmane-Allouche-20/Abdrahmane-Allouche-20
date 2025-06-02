@@ -29,7 +29,7 @@ Anything creative and challenging
 ## 🛠 Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,sass,react,redux,materialui,nextjs,nodejs,express,mongodb,mysql,postgres,postman,git,github,vscode,docker,figma,firebase,graphql,java,linux,php,py,pytorch,vercel,vite,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,sass,react,redux,materialui,nextjs,nodejs,express,mongodb,mysql,postgres,postman,git,github,vscode,docker,figma,firebase,graphql,java,linux,php,py,pytorch,vercel,vite,c,bash" />
 </div>
 
 ---
