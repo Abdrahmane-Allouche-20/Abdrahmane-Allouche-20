@@ -23,24 +23,23 @@ Based in Kraków and open to full-time opportunities as a Software Engineer, Ful
 
 www.allouche.dev
 https://github.com/Abdrahmane-Allouche-20/
-abderrahmaneallouchee@gmail.com
+abderrahmane@allouche.dev
 
 ---
 
 ### 🌍 Where I’m from  
 **Poland PL**
 
-### 🧠 Currently learning  
-**3D Web Experiences** using **Three.js**
+
 
 ### 🤝 Open to collaborate on  
 Anything creative and challenging
 
 ### ✉️ Contact me  
-[abdrahmane.all23@gmail.com](mailto:abdrahmane.all23@gmail.com)
+[abderrahmane@allouche.dev](mailto:abderrahmane@allouche.dev)
 
 ### 🌐 Portfolio  
-[portfooliiooo.netlify.app](https://portfooliiooo.netlify.app)
+[allouche.dev]([https://www.allouche.dev/])
 
 
 
@@ -49,7 +48,7 @@ Anything creative and challenging
 ## 🛠 Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,sass,react,redux,materialui,nextjs,nodejs,go,express,mongodb,mysql,postgres,postman,git,github,vscode,docker,figma,firebase,graphql,java,linux,php,py,pytorch,vercel,vite,c,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,sass,react,C#,Angular,redux,materialui,nextjs,nodejs,Go,express,mongodb,mysql,postgres,postman,git,github,vscode,docker,figma,firebase,graphql,java,linux,php,py,pytorch,vercel,vite,c,bash,FASTAPI,Django" />
 </div>
 
 ---
@@ -79,17 +78,23 @@ Anything creative and challenging
 ## 📌 Featured Projects
 
 <div >
-  <a href="https://github.com/Abdrahmane-Allouche-20/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
+  <a href="https://github.com/Abdrahmane-Allouche-20/leakshield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=leakshield&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
-    <a href="https://github.com/Abdrahmane-Allouche-20/CoffeShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=CoffeShop&theme=ayu-mirage&hide_border=true" width="45%" />
+    <a href="https://github.com/Abdrahmane-Allouche-20/apexFund">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=apexFund&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
-  <a href="https://github.com/Abdrahmane-Allouche-20/foodRecipe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=foodRecipe&theme=ayu-mirage&hide_border=true" width="45%" />
+  <a href="https://github.com/Abdrahmane-Allouche-20/agencedevoyage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=agencedevoyage&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
-  <a href="https://github.com/Abdrahmane-Allouche-20/TodolistFullStack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=TodolistFullStack&theme=ayu-mirage&hide_border=true" width="45%" />
+  <a href="https://github.com/Abdrahmane-Allouche-20/aifrauddetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=aifrauddetection&theme=ayu-mirage&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Abdrahmane-Allouche-20/real_time_chat_frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=real_time_chat_frontend&theme=ayu-mirage&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Abdrahmane-Allouche-20/portfolio_builder_frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=portfolio_builder_frontend&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
 </div>
 
