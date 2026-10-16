@@ -39,7 +39,7 @@ Anything creative and challenging
 [abderrahmane@allouche.dev](mailto:abderrahmane@allouche.dev)
 
 ### 🌐 Portfolio  
-[allouche.dev]([https://www.allouche.dev/])
+[www.allouche.dev]([https://www.allouche.dev/])
 
 
 
