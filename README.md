@@ -98,8 +98,3 @@ Anything creative and challenging
   </a>
 </div>
 
----
-
-## 🧠 LeetCode Progress
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abdrahmaneallouche?theme=dark&ext=activity)](https://leetcode.com/abdrahmaneallouche/)
