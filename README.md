@@ -1,77 +1,27 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
+<h1 align="center">Hi 👋, I'm ALLOUCHE MOHAMED ABDERRAHMANE</h1>
+<h3 align="center">I’m a Software Engineer working across frontend, backend, and application security. I build responsive interfaces with React, Next.js, and TypeScript, alongside APIs, authentication systems, and background services using Node.js, Python, and PostgreSQL. At SocShield, I developed dashboards spanning 15+ data views, built 20+ REST API endpoints, and implemented role-based access controls. During my internship at FlyRank, I contributed to backend AI services and processing workflows. My projects include LeakShield, an AI portfolio generator, a real-time messaging application, and a mobile music player. I enjoy owning features from design through deployment, with attention to maintainability, security, and user experience. I graduated third in a Computer Science cohort of 120+ and currently study Cybersecurity at WSB University in Kraków. I earned second place at DevRush 1.0 and was a national finalist in the FORSA Algérie Télécom Hackathon Datathon. 𝐂𝐨𝐫𝐞 𝐬𝐤𝐢𝐥𝐥𝐬: • 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 :React, Next.js, Angular, TypeScript, responsive UI • 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 :Node.js, Express.js, Python, FastAPI, Django, Java, .Net • 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : PostgreSQL, MongoDB, SQL • 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆:OAuth 2.0, JWT, RBAC, OWASP Top 10 • 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘁𝗼𝗼𝗹𝘀:Docker, Linux, Git, Claude Code, Cursor 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:Arabic (native), English (C1), French (C1) Based in Kraków and open to full-time opportunities as a Software Engineer, Full-Stack Developer, Frontend Developer, or Backend Developer remotely with international teams or on-site in Kraków. Always happy to connect. www.allouche.dev https://github.com/Abdrahmane-Allouche-20/ abderrahmane@allouche.dev</h3>
 
-## My name is Allouche Mohamed Abderrahmane 👨‍💻  
-### 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 | 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 | 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdrahmane-allouche-20&label=Profile%20views&color=0e75b6&style=flat" alt="abdrahmane-allouche-20" /> </p>
 
-I’m a Software Engineer working across frontend, backend, and application security. I build responsive interfaces with React, Next.js, and TypeScript, alongside APIs, authentication systems, and background services using Node.js, Python, and PostgreSQL.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdrahmane-allouche-20" alt="abdrahmane-allouche-20" /></a> </p>
 
-At SocShield, I developed dashboards spanning 15+ data views, built 20+ REST API endpoints, and implemented role-based access controls. During my internship at FlyRank, I contributed to backend AI services and processing workflows.
+- 👨‍💻 All of my projects are available at [https://www.allouche.dev/](https://www.allouche.dev/)
 
-My projects include LeakShield, an AI portfolio generator, a real-time messaging application, and a mobile music player. I enjoy owning features from design through deployment, with attention to maintainability, security, and user experience.
+- 💬 Ask me about **Anything**
 
-I graduated third in a Computer Science cohort of 120+ and currently study Cybersecurity at WSB University in Kraków. I earned second place at DevRush 1.0 and was a national finalist in the FORSA Algérie Télécom Hackathon Datathon.
+- 📫 How to reach me **abderrahmane@allouche.dev**
 
-𝐂𝐨𝐫𝐞 𝐬𝐤𝐢𝐥𝐥𝐬:
-• 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 :React, Next.js, Angular, TypeScript, responsive UI
-• 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 :Node.js, Express.js, Python, FastAPI, Django, Java, .Net
-• 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 : PostgreSQL, MongoDB, SQL
-• 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆:OAuth 2.0, JWT, RBAC, OWASP Top 10
-• 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘁𝗼𝗼𝗹𝘀:Docker, Linux, Git, Claude Code, Cursor
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:Arabic (native), English (C1), French (C1)
+- ⚡ Fun fact **IM THE SMARTEST**
 
-Based in Kraków and open to full-time opportunities as a Software Engineer, Full-Stack Developer, Frontend Developer, or Backend Developer remotely with international teams or on-site in Kraków. Always happy to connect.
-
-www.allouche.dev
-https://github.com/Abdrahmane-Allouche-20/
-abderrahmane@allouche.dev
-
----
-
-### 🌍 Where I’m from  
-**Poland PL**
-
-
-
-### 🤝 Open to collaborate on  
-Anything creative and challenging
-
-### ✉️ Contact me  
-[abderrahmane@allouche.dev](mailto:abderrahmane@allouche.dev)
-
-### 🌐 Portfolio
-[www.allouche.dev](https://www.allouche.dev/)
-
-
-
----
-
-## 🛠 Skills
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,sass,react,C#,Angular,redux,materialui,nextjs,nodejs,Go,express,mongodb,mysql,postgres,postman,git,github,vscode,docker,figma,firebase,graphql,java,linux,php,py,pytorch,vercel,vite,c,bash,FASTAPI,Django" />
-</div>
-
----
-
-## 🌐 Socials
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/Abdrahmane-Allouche-20" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdrrahmaneeee" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
-  </a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdrahmane-allouche-20&show_icons=true&locale=en&layout=compact" alt="abdrahmane-allouche-20" /></p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdrahmane-Allouche-20&show_icons=true&count_private=true&theme=ayu-mirage" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdrahmane-Allouche-20&layout=compact&langs_count=6&theme=ayu-mirage" height="150" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdrahmane-allouche-20&show_icons=true&locale=en" alt="abdrahmane-allouche-20" /></p>
 
----
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdrahmane-allouche-20&" alt="abdrahmane-allouche-20" /></p>
