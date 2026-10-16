@@ -78,23 +78,17 @@ Anything creative and challenging
 ## 📌 Featured Projects
 
 <div >
-  <a href="https://github.com/Abdrahmane-Allouche-20/leakshield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=leakshield&theme=ayu-mirage&hide_border=true" width="45%" />
+  <a href="https://github.com/Abdrahmane-Allouche-20/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=Portfolio&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
-    <a href="https://github.com/Abdrahmane-Allouche-20/apexFund">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=apexFund&theme=ayu-mirage&hide_border=true" width="45%" />
+    <a href="https://github.com/Abdrahmane-Allouche-20/CoffeShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=CoffeShop&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
-  <a href="https://github.com/Abdrahmane-Allouche-20/agencedevoyage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=agencedevoyage&theme=ayu-mirage&hide_border=true" width="45%" />
+  <a href="https://github.com/Abdrahmane-Allouche-20/foodRecipe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=foodRecipe&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
-  <a href="https://github.com/Abdrahmane-Allouche-20/aifrauddetection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=aifrauddetection&theme=ayu-mirage&hide_border=true" width="45%" />
-  </a>
-  <a href="https://github.com/Abdrahmane-Allouche-20/real_time_chat_frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=real_time_chat_frontend&theme=ayu-mirage&hide_border=true" width="45%" />
-  </a>
-  <a href="https://github.com/Abdrahmane-Allouche-20/portfolio_builder_frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=portfolio_builder_frontend&theme=ayu-mirage&hide_border=true" width="45%" />
+  <a href="https://github.com/Abdrahmane-Allouche-20/TodolistFullStack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdrahmane-Allouche-20&repo=TodolistFullStack&theme=ayu-mirage&hide_border=true" width="45%" />
   </a>
 </div>
 
